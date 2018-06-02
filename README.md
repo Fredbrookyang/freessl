@@ -3,7 +3,7 @@ outline官方地址：https://getoutline.org/
 
 服务器上使用的代码：
 
-1： sudo -i
+1： ‘sudo -i’
 
 2： curl -sS https://get.docker.com/ | sh
 
