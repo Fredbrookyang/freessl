@@ -3,9 +3,11 @@ outline官方地址：https://getoutline.org/
 
 服务器上使用的代码：
 
-1： <pre><code>sudo -i</code></pre>
+1： 
+<pre><code>sudo -i</code></pre>
 
-2： curl -sS https://get.docker.com/ | sh
+2： 
+<pre><code>curl -sS https://get.docker.com/ | sh</code></pre>
 
 3：systemctl start docker
 
