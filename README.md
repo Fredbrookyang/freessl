@@ -3,19 +3,19 @@ outline官方地址：https://getoutline.org/
 
 服务器上使用的代码：
 
-代码1： 
+#代码1： 
 <pre><code>sudo -i</code></pre>
 
-代码2： 
+#代码2： 
 <pre><code>curl -sS https://get.docker.com/ | sh</code></pre>
 
-代码3：<pre><code>systemctl start docker</code></pre>
+#代码3：<pre><code>systemctl start docker</code></pre>
 
-代码4：<pre><code>systemctl enable docker</code></pre>
+#代码4：<pre><code>systemctl enable docker</code></pre>
 
-代码5：<pre><code>systemctl status docker</code></pre>
+#代码5：<pre><code>systemctl status docker</code></pre>
 
-代码6：<pre><code>wget -qO- https://raw.githubusercontent.com/Jigsaw-Code/outline-server/master/src/server_manager/install_scripts/install_server.sh | bash</code></pre>
+#代码6：<pre><code>wget -qO- https://raw.githubusercontent.com/Jigsaw-Code/outline-server/master/src/server_manager/install_scripts/install_server.sh | bash</code></pre>
 
 在电脑上下载安装 outline 管理端 （地址就是他们主页）
 outline1
