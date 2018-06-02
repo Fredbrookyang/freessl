@@ -9,11 +9,11 @@ outline官方地址：https://getoutline.org/
 
 3：systemctl start docker
 
-4：systemctl enable docker
+*4：systemctl enable docker
 
-5：systemctl status docker
+*5：systemctl status docker
 
-6：wget -qO- https://raw.githubusercontent.com/Jigsaw-Code/outline-server/master/src/server_manager/install_scripts/install_server.sh | bash
+*6：wget -qO- https://raw.githubusercontent.com/Jigsaw-Code/outline-server/master/src/server_manager/install_scripts/install_server.sh | bash
 
 在电脑上下载安装 outline 管理端 （地址就是他们主页）
 outline1
